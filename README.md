@@ -1,4 +1,5 @@
 # commands
+## docker
 ```
 docker image prune --force --all
 ```
